@@ -20,5 +20,3 @@ The difference between `any`, `unknown`, and `never` types in TypeScript are,
 `any` types are basically when there is no type specified for a vabiable. It can take any types.
 `unknown` types used when the type is not known. Typescript will check the type.
 `never` types are used for a fuction or variable returns anything.
-
----
